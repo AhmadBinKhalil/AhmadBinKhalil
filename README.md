@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My README</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+    }
+  </style>
+</head>
+<body>
 <h2 align="left">Hi 👋! My name is Ahmad Rajput, and I'm a passionate AWS Cloud Practitioner from Pakistan!</h2>
 
 ###
@@ -8,12 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadBinKhalil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<style>
-    body {
-      background-color: black;
-      color: white;
-    }
-</style>
 
 ###
 
@@ -63,3 +69,5 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg" alt="Snake animation" />
 
 ###
+</body>
+</html>
