@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Mastering the N8N automation tool.<br>👯 I’m looking to collaborate on: Innovative AI projects.<br>🤝 I’m looking for help with: Enhancing my data science skills.<br>🌱 I’m currently learning: JavaScript to broaden my skill set.<br>💬 Ask me about: My journey in cloud computing and AI.<br>⚡ Fun fact: I have a collection of vintage dolls that I believe whisper to me at night.
+🔭 I’m currently working on: Mastering the N8N automation tool.<br>👯 I’m looking to collaborate on: Innovative AI projects.<br>🤝 I’m looking for help with: Enhancing my data science skills.<br>🌱 I’m currently learning: JavaScript to broaden my skill set.<br>💬 Ask me about: My journey in cloud computing and AI.<br>⚡ Fun fact: Octopus blood is blue due to having copper based blood to carry oxygen.
 
 
 ## 🌐 Socials:
